@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 vendor/tcg/voyager/resources/views
+web: vendor/bin/heroku-php-apache2 public/
