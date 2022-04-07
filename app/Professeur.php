@@ -1,7 +1,7 @@
 <?php
 
 namespace App;
-use \auth;
+use \Auth;
 use Illuminate\Database\Eloquent\Model;
 
 
