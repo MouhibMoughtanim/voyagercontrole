@@ -57,6 +57,13 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
+   
+   
+        "require": {
+            "ext-gd": "*"
+        },
+   
     "minimum-stability": "dev",
     "prefer-stable": true
+
 }
