@@ -10,7 +10,8 @@
         "laravel/framework": "^9.2",
         "laravel/sanctum": "^2.14.1",
         "laravel/tinker": "^2.7",
-        "tcg/voyager": "^1.5"
+        "tcg/voyager": "^1.5",
+        "ext-gd": "*"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
@@ -58,10 +59,6 @@
         "sort-packages": true
     },
    
-   
-        "require": {
-            "ext-gd": "*"
-        },
    
     "minimum-stability": "dev",
     "prefer-stable": true
